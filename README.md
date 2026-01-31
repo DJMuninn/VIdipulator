@@ -1,2 +1,2 @@
-# VIdipulator
+# Vidipulator
 Golang video manipulator
